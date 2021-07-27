@@ -1,6 +1,6 @@
 # Hello, World!
 <br>
-I'm Ted Verdonkschot, a developer that enjoys converting ideas into realities on the web. I'm currently working my way through The Odin Project (https://www.theodinproject.com) an open source, project-based web development curriculum.
+I'm Ted, a developer that enjoys converting ideas into realities on the web. I'm currently working my way through The Odin Project (https://www.theodinproject.com) an open source, project-based web development curriculum.
 
 <!---
 Ted-V/Ted-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
